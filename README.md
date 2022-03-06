@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @defenseoftheancients
 - 👀 I’m interested in coding and fixing
 - 🌱 I’m studying information technology at PTIT
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ? Reach me if you can
 
 <!---
